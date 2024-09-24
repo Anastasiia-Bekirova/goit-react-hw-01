@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 import Profile from './components/Profile/Profile';
-import FriendList from './components/hfjfhj/FriendList';
+import FriendList from './components/Friendlist/Friendlist';
 import TransactionHistory from './components/TransactionHistory/TransactionHistory';
 
 import userData from './userData.json';
